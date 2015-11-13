@@ -1,5 +1,5 @@
 {
-  "name": "nqmOEMDriver",
+  "name": "nqm-iot-oem-driver",
   "version": "0.0.0",
   "description": "nqm driver of Open Energy Monitor sensors",
   "main": "index.js",

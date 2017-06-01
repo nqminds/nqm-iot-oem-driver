@@ -1,3 +1,7 @@
-"use strict";
+module.exports = (function() {
+  "use strict";
 
-exports.Driver = require("./lib/OEMDriver");
+  const Driver = require("./lib/oem-driver");
+
+  return Driver;
+}());

@@ -16,6 +16,8 @@
     "url": "https://github.com/nqminds/nqmOEMDriver/issues"
   },
   "dependencies": {
+    "bluebird": "^3.5.0",
+    "nqm-databot-utils": "^0.1.22",
     "serialport": "^4.0.7"
   },
   "devDependencies": {

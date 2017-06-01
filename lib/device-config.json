@@ -1,0 +1,43 @@
+{
+  "emonTH": [
+    {
+      "name": "temperature",
+      "scale": 0.1
+    },
+    { "name": "external temp",
+      "scale": 0.1
+    },
+    { "name": "humidity",
+      "scale": 0.1
+    },
+    { "name": "voltage",
+      "scale": 0.1
+    }
+  ],
+  "emonTx": [
+    {
+      "name": "power",
+      "scale": 1
+    },
+    {
+      "name": "power2",
+      "scale": 1
+    },
+    {
+      "name": "power3",
+      "scale": 1
+    },
+    {
+      "name": "power4",
+      "scale": 1
+    },
+    {
+      "name": "voltage",
+      "scale": 0.01
+    },
+    {
+      "name": "temperature",
+      "scale": 0.1
+    }
+  ]
+}
